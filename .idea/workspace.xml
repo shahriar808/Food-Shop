@@ -5,86 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d589f09-efff-4a43-aebb-d4af3bb1de0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/major.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/MajorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/dto/ProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sheryians/major/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/BW1A4089-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/caramello-cake-105070-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/finished-asawer-pan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/hazelnut_chocolates_02989_16x9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/image_2024-05-30_192322024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/image_2024-05-30_195958071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/productImages/lifted-baklava-720x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminHome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/categoriesAdd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/orderPlaced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/productsAdd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/viewProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sheryians/major/MajorApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/BW1A4089-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/caramello-cake-105070-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/finished-asawer-pan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/hazelnut_chocolates_02989_16x9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/image_2024-05-30_192322024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/image_2024-05-30_195958071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/productImages/lifted-baklava-720x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminHome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/categoriesAdd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/orderPlaced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/productsAdd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/viewProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/sheryians/major/MajorApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/ChallengeAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/dao/ChallengeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/entity/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/repository/ChallengeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/java/com/shahriar/ChallengeApp/service/ChallengeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChallengeApp/src/test/java/com/shahriar/ChallengeApp/ChallengeAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -109,30 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MajorApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Spring-Boot-Project/major&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MajorApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Spring-Boot-Project/major",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MajorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -162,6 +102,9 @@
       <workItem from="1721573459053" duration="2335000" />
       <workItem from="1722260335212" duration="15000" />
       <workItem from="1722266488445" duration="32000" />
+      <workItem from="1723746914480" duration="2402000" />
+      <workItem from="1724354572429" duration="150000" />
+      <workItem from="1725718863211" duration="429000" />
     </task>
     <servers />
   </component>
